@@ -14,7 +14,7 @@
 - Uses AI tools to improve productivity
 
 ### 🛠️ Tech Stack
-- **Languages:** C++, JavaScript
+- **Languages:** C++, Java, JavaScript
 - **Frontend:** React, Tailwind CSS, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
 - **AI Tools:** Claude, Gemini, Antigravity
