@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <h1>Vexor</h1>
+  <h3>Frontend Developer (React) | DSA + Problem Solving</h3>
 
-<!--
-**vaidus2608m/vaidus2608m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=350&height=40&lines=Building+with+React;Learning+Full+Stack;Using+AI+Tools+Smartly" alt="Typing Animation" />
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 About Me
+- Frontend Developer focused on React
+- Learning backend to become full stack
+- Practicing DSA consistently
+- Uses AI tools to improve productivity
+
+### 🛠️ Tech Stack
+- **Languages:** C++, JavaScript
+- **Frontend:** React, Tailwind CSS, HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+- **AI Tools:** Claude, Gemini, Antigravity
+
+### 🎯 Current Focus
+- Improving React
+- Learning backend (Node.js)
+- Practicing DSA
+- Using AI tools effectively
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidus2608m&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidus2608m&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidus2608m&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>Clean Code • Real Skills • Consistency</i></p>
+</div>
