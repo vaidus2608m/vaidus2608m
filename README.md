@@ -28,9 +28,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidus2608m&show_icons=true&theme=tokyonight&hide_border=true&custom_title=Vexor's+GitHub+Stats&rank_icon=github&include_all_commits=true" height="150" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidus2608m&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaidus2608m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Vexor's GitHub Stats" />
 </div>
 
 <br/>
