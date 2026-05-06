@@ -28,16 +28,29 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vaidus2608m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="Vexor's GitHub Stats" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vaidus2608m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=vaidus2608m&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaidus2608m&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
 
-<br/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vaidus2608m&theme=tokyo-night&hide_border=true" 
+    width="95%"
+  />
+
+</div>
 
 <div align="center">
   <p><i>Clean Code • Real Skills • Consistency</i></p>
